@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51172374507",
+    "project_id": "social-app-fafc0",
+    "storage_bucket": "social-app-fafc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51172374507:android:ffd38bfdb07bb3e9524bae",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51172374507-8o3t0q35l3eqdirhkeucjfp4qjudfb33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_T4XDknUMIdzq9pMlAj1RWykwA2WnX2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51172374507-8o3t0q35l3eqdirhkeucjfp4qjudfb33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
